@@ -1,0 +1,2 @@
+libvins_lib.so filter=lfs diff=lfs merge=lfs -text
+brief_k10L6.bin filter=lfs diff=lfs merge=lfs -text
